@@ -178,7 +178,7 @@ g=9.8;
 
 %×ø±ê×ª»»
 Tbe=[1 0 0;0 cos(fi) sin(fi);0 -sin(fi) cos(fi);]*[cos(the) 0 -sin(the);...
-    0 1 0;sin(the) 0 cos(the);]*[cos(fi) sin(fi) 0;-sin(fi) cos(fi) 0;0 0 1;];
+    0 1 0;sin(the) 0 cos(the);]*[cos(pus) sin(pus) 0;-sin(pus) cos(pus) 0;0 0 1;];
 Trub=[cos(pi/4) -sin(pi/4) 0;sin(pi/4) cos(pi/4) 0;0 0 1];
 
 Vb=Tbe*[ue ve we]';
